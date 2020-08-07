@@ -19,9 +19,9 @@ Found the secret :wink:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code> 
 
-<a href="https://github.com/gmendozah">
+<a href="https://www.linkedin.com/in/geovanimendozah">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gmendozah&count_private=true&show_icons=true&theme=tokyonight&hide" alt="Geovani's Github Stats" />
 </a>
-<a href="https://github.com/gmendozah">
+<a href="https://www.linkedin.com/in/geovanimendozah">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmendozah&layout=compact&theme=tokyonight&hide=javascript,html,jupyter+notebook" />
 </a>
