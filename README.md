@@ -23,5 +23,5 @@ Found the secret :wink:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gmendozah&count_private=true&show_icons=true&theme=tokyonight&hide" alt="Geovani's Github Stats" />
 </a>
 <a href="https://www.linkedin.com/in/geovanimendozah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmendozah&layout=compact&theme=tokyonight&hide=javascript,html,jupyter+notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmendozah&layout=compact&theme=tokyonight&hide=ruby,typescript,javascript,html,php,css,jupyter+notebook" />
 </a>
