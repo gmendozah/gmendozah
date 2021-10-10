@@ -2,9 +2,7 @@
 
 I am a person who sees this world as rich, interesting, and full of meaning, likes dealing with challenging problems, likes to learn new things everyday and willing to help meaningful causes.
 
-The tech ecosystem changes constantly and rapidly, there are new technologies and libraries coming out everyday. By realizing this, I strategized to adapt as quickly as possible. In such a changing environment, I understood that my ability to learn fast was crucial in order to acquire new skills and knowledge. 
-
-Lately I have been putting my mind on new things like Artificial Intelligence! I am learning it because I think it is gonna help expanding our horizons as humanity.
+The tech ecosystem changes constantly and rapidly, there are new technologies and libraries coming out everyday. By realizing this, I strategized to adapt as quickly as possible. In such a changing environment, I understood that my ability to learn fast was crucial in order to acquire new skills and knowledge.
 
 Did I mention to you that I like A.I.? Yeah, I love it! I am Aiming to a Master's in Data Science.
 
