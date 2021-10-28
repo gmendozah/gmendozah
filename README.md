@@ -18,7 +18,7 @@ Mobile Development: Flutter, Dart, Android, Kotlin, Java, Firebase, Codemagic.</
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/firebase/firebase.png"></code> 
 <code><img height="20" src="https://avatars3.githubusercontent.com/ml/4665?s=140&v=4"></code>
 
-Machine Learning:</br>
+Machine Learning: Tensorflow, Pytorch, AWS, Python, Jupiter Notebook.</br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/21003710?s=200&v=4"></code>
