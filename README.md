@@ -6,7 +6,7 @@ The tech ecosystem changes constantly and rapidly, there are new technologies an
 
 Did I mention to you that I like A.I.? Yeah, I love it! I am Aiming to a Master's in Data Science.
 
-When I lost my job during the pandemic, I decided to grab the bull by the horns and reinvent my career: From Android Developer to Flutter Mobile Engineer.
+When I lost my job during the pandemic, I decided to grab the bull by the horns and reinvent my career as a Flutter Developer.
 
 ### My Specialities:
 Mobile Development: Flutter, Dart, Android, Kotlin, Java, Firebase, Codemagic.</br>
