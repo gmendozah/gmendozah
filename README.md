@@ -24,8 +24,5 @@ Machine Learning: Tensorflow, Pytorch, AWS Sagemaker, Python, Jupiter Notebook.<
 **UI / UX:** Figma, Miro, Material Design.
 
 <a href="https://www.linkedin.com/in/geovanimendozah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gmendozah&count_private=true&show_icons=true&theme=blueberry&hide&hide_title=true&include_all_commits=true" alt="Geovani's Github Stats" />
-</a>
-<a href="https://www.linkedin.com/in/geovanimendozah">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmendozah&layout=compact&theme=blueberry&hide=ruby,typescript,html,php,css,jupyter+notebook" />
 </a>
