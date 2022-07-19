@@ -1,4 +1,4 @@
-## Hi, I'm [Geovani](https://www.linkedin.com/in/geovanimendozah/)! :wave:
+## Hi, I'm [Geo](https://www.linkedin.com/in/geovanimendozah/)! :wave:
 
 I am a person who sees this world as rich, interesting, and full of meaning, likes dealing with challenging problems, likes to learn new things and willing to help meaningful causes.
 
