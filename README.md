@@ -1,28 +1,44 @@
-## Hi, I'm [Geo](https://www.linkedin.com/in/geovanimendozah/)! :wave:
+# Hi, I'm Geo 👋 
 
-I am a person who sees this world as rich, interesting, and full of meaning, likes dealing with challenging problems, likes to learn new things and willing to help meaningful causes.
+**Senior Mobile Engineer | Systems Engineer | AI Strategy in Mobile**
 
-The tech ecosystem changes constantly and rapidly, there are new technologies and libraries coming out everyday. By realizing this, I strategized to adapt as quickly as possible. In such a changing environment, I understood that my ability to learn fast was crucial in order to acquire new skills and knowledge.
+I specialize in building scalable, high-performance mobile architectures with a current focus on **Agentic Development** and **On-Device AI**. With over 8 years of experience, I bridge the gap between robust software engineering (Clean Architecture) and the next generation of intelligent mobile applications.
 
-### My Specialities:
-Mobile Development: Flutter, Dart, Android, Kotlin, Java, Firebase, Codemagic.</br>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/android/android.png"></code>
-<code><img height="20" src="https://avatars0.githubusercontent.com/u/10639145?s=200&v=4"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/firebase/firebase.png"></code> 
-<code><img height="20" src="https://avatars3.githubusercontent.com/ml/4665?s=140&v=4"></code>
+---
 
-Machine Learning: Tensorflow, Pytorch, AWS Sagemaker, Python, Jupiter Notebook.</br>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://avatars0.githubusercontent.com/u/21003710?s=200&v=4"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+### 🚀 Technical Core
+*   **Mobile Architecture:** Expertise in **Flutter & Dart**, utilizing **BLoC** and **Clean Architecture** for maintainable, enterprise-grade apps.
+*   **AI & Intelligence:** Implementing **On-Device AI**, leveraging **Gemini API**, and exploring **Agentic workflows** to enhance user experiences.
+*   **Legacy & Native:** Solid background in Android (Kotlin/Java) and cross-platform ecosystem integration.
 
-**UI / UX:** Figma, Miro, Material Design.
+### 🛠️ Tech Stack & Tools
+**Languages & Frameworks**
+`Flutter` `Dart` `Kotlin` `Java` `Python`
 
-<a href="https://www.linkedin.com/in/geovanimendozah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmendozah&layout=compact&theme=blueberry&hide=ruby,typescript,html,php,css,jupyter+notebook" />
-</a>
+**AI & Data Science**
+`Gemini API` `TensorFlow` `PyTorch` `Scikit-Learn` `Jupyter`
+
+**Cloud & DevOps**
+`Firebase` `AWS SageMaker` `GitHub Copilot` `Codemagic`
+
+---
+
+### 🧠 Current Focus
+*   🎓 **Continuous Growth:** Preparing for advanced specialization in Computer Science (Master's track).
+*   🤖 **AI Integration:** Developing mobile-first agents and local LLM implementations.
+*   ⚡ **Engineering Excellence:** Refining CI/CD pipelines and automated code auditing for mobile.
+
+---
+
+### 📊 My Activity
+<div align="center">
+  <a href="https://www.linkedin.com/in/geovanimendozah">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gmendozah&layout=compact&theme=blueberry&hide=ruby,typescript,html,php,css,jupyter%20notebook" alt="Top Languages" />
+  </a>
+</div>
+
+---
+
+### 📫 Let's Connect
+*   **LinkedIn:** [geovanimendozah](https://www.linkedin.com/in/geovanimendozah/)
+*   **Location:** La Paz, Bolivia 🇧🇴
