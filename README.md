@@ -23,13 +23,6 @@ I specialize in building scalable, high-performance mobile architectures with a 
 
 ---
 
-### 🧠 Current Focus
-*   🎓 **Continuous Growth:** Preparing for advanced specialization in Computer Science (Master's track).
-*   🤖 **AI Integration:** Developing mobile-first agents and local LLM implementations.
-*   ⚡ **Engineering Excellence:** Refining CI/CD pipelines and automated code auditing for mobile.
-
----
-
 ### 📊 My Activity
 <div align="center">
   <a href="https://www.linkedin.com/in/geovanimendozah">
