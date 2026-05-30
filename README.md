@@ -13,7 +13,7 @@ I specialize in building scalable, high-performance mobile architectures with a 
 
 ### 🛠️ Tech Stack & Tools
 **Languages & Frameworks**
-`Flutter` `Dart` `Kotlin` `Java` `Python`
+`Flutter` `Dart` `Swift` `Kotlin` `Java` `Python`
 
 **AI & Data Science**
 `Gemini API` `TensorFlow` `PyTorch` `Scikit-Learn` `Jupyter`
