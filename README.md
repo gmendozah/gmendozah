@@ -32,8 +32,3 @@
 </div>
 
 ---
-
-### 📫 Let's Connect
-
-* **LinkedIn:** [geovanimendozah](https://www.linkedin.com/in/geovanimendozah/)
-* **Email:** geovanimendoza.h@gmail.com
