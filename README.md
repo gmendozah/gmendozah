@@ -2,24 +2,24 @@
 
 **Senior Mobile Engineer | AI-Augmented Developer**
 
-> *Across every stage of my 8+ year career, I have specialized in taking complex, ambiguous, or unoptimized mobile systems and engineering them into predictable, scalable, and high-performance architectures. This foundational mastery of mobile ecosystems has naturally evolved into pioneering low-latency On-Device/Edge AI capabilities and weaponizing agentic development workflows.*
+> I see the world as a rich, meaningful place full of challenging problems to solve. Driven by deep curiosity and the belief that speed of adaptation is crucial in a rapidly shifting tech landscape, I have spent over 8 years engineering complex mobile systems into predictable, scalable, and high-performance architectures. Today, I naturally amplify this foundational expertise by blending clean mobile craftsmanship with low-latency Edge AI capabilities and cutting-edge agentic development ecosystems.
 
 ---
 
-### 🚀 Engineering Philosophy & Core Capabilities
+### 🚀 Engineering & Approach
 
-* **Cross-Platform & Native Mastery:** Deep expertise in **Flutter**, **React Native**, **iOS (Swift/SwiftUI)**, and **Android (Kotlin/Jetpack Compose)**. I architect offline-first, high-integrity applications utilizing Clean Architecture, Domain-Driven Design (DDD), and advanced state management (BLoC/Cubit, Riverpod) to handle massive enterprise scale.
-* **Agentic Development Workflows:** Operating as a next-generation engineer by deeply integrating AI-assisted tooling into daily execution. I leverage **Cursor**, **Claude Code**, and **GitHub Copilot** alongside context engineering and advanced prompt orchestration to fundamentally accelerate legacy refactoring and feature delivery.
-* **Edge AI & System Performance:** Focused on bridging the gap between robust mobile engineering and the AI frontier. From prototyping privacy-conscious on-device SLMs and integrating RAG pipelines, to surgically optimizing granular state mutations, isolating memory leaks, and reducing UI thread bottlenecks.
+* **Pragmatic Mobile Architecture:** Deep specialization in **Flutter** along with robust native experience (iOS/Android). I architect offline-first, high-integrity applications using Clean Architecture, DDD, and advanced state management (BLoC, Riverpod) built to handle enterprise scale seamlessly.
+* **Agentic Workflows & Tooling:** Operating as a next-generation engineer by deeply integrating agentic development environments into my daily execution. I leverage **Google Antigravity**, **Cursor**, and **Claude Code** to orchestrate context, accelerate legacy refactoring, and optimize software delivery.
+* **Edge AI & Performance Mastery:** Focused on bridging the gap between mobile architectures and the AI frontier. From implementing privacy-conscious on-device SLMs and RAG pipelines, to surgically isolating memory leaks, optimizing granular state mutations, and resolving UI thread bottlenecks.
 
 ### 🛠️ Tech Stack & Arsenal
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Mobile Ecosystems** | Flutter, Dart, React Native, Swift (UIKit/SwiftUI), Kotlin (Compose) |
-| **State & Architecture** | Clean Architecture, BLoC/Cubit, Riverpod, SQLite, Isar, MVVM |
-| **Applied AI & Tooling** | Cursor, Claude Code, Gemini API, RAG, On-Device AI, Context Engineering |
-| **DevOps & Testing** | GitHub Actions, Codemagic, Maestro (E2E Testing), Fastlane |
+| **Mobile Ecosystems** | Flutter, Dart, iOS (Swift/SwiftUI), Android (Kotlin/Compose) |
+| **State & Architecture** | Clean Architecture, DDD, BLoC/Cubit, Riverpod, Isar, SQLite |
+| **Agentic AI & Tooling** | Google Antigravity, Cursor, Claude Code, Gemini API, On-Device AI / RAG |
+| **DevOps & Testing** | GitHub Actions, Codemagic, Maestro (E2E), Fastlane |
 
 ---
 
@@ -30,5 +30,3 @@
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gmendozah&layout=compact&theme=blueberry&hide=ruby,typescript,html,php,css,jupyter%20notebook" alt="Top Languages" />
   </a>
 </div>
-
----
