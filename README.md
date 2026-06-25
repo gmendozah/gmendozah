@@ -1,4 +1,4 @@
-# Hi, I'm Geovani Mendoza 👋
+# Hi, I'm Geovani Mendoza (Geo)👋
 
 **Senior Mobile Engineer | AI-Augmented Developer**
 
